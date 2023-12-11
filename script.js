@@ -3,5 +3,3 @@ function functionName(){
 	alert(arguments.callee.name)
 }
 functionName();
-// alert("Acciojob");
-// AccioJob()
